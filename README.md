@@ -14,4 +14,9 @@ Welcome to the Cool Hangman Game! This simple hangman game allows you to guess t
 - Provides feedback on correct and incorrect guesses.
 - Keeps track of your progress and displays the current state of the waifu name.
 
+## Installation
 
+```bash
+git clone https://github.com/ApatheticDamn/guess-the-wifu.git
+cd guess-the-wifu
+python main.py
