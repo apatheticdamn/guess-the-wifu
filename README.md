@@ -11,7 +11,7 @@ Welcome to the Cool Hangman Game! This simple hangman game allows you to guess t
 ## Game Features
 
 - Randomly selects a waifu name from a predefined list.
-- Provides feedback on correct and incorrect guesses.
+- Provides feedback on incorrect guesses.
 - Keeps track of your progress and displays the current state of the waifu name.
 
 ## Installation
